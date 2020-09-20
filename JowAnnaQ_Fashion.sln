@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JowAnnaQ_Fashion", "JowAnnaQ_Fashion\JowAnnaQ_Fashion.csproj", "{A7C5B949-350E-4C99-9BED-DD38ACCD1718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JowAnnaQ_Fashion.Tests", "JowAnnaQ_Fashion.Tests\JowAnnaQ_Fashion.Tests.csproj", "{71E387C1-F122-4A9C-9968-F81CC4B908FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7C5B949-350E-4C99-9BED-DD38ACCD1718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C5B949-350E-4C99-9BED-DD38ACCD1718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C5B949-350E-4C99-9BED-DD38ACCD1718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C5B949-350E-4C99-9BED-DD38ACCD1718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E387C1-F122-4A9C-9968-F81CC4B908FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E387C1-F122-4A9C-9968-F81CC4B908FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E387C1-F122-4A9C-9968-F81CC4B908FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E387C1-F122-4A9C-9968-F81CC4B908FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D84E25C5-123C-44F8-8184-451938CA63FC}
+	EndGlobalSection
+EndGlobal
